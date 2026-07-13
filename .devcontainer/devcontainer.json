@@ -6,7 +6,7 @@
       "version": "latest"
     }
   },
-     "postCreateCommand": "python3 --version && git --version",
+  "postCreateCommand": "python3 --version && git --version",
   "customizations": {
     "vscode": {
       "extensions": [
